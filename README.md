@@ -30,4 +30,4 @@ The project compares three portfolio optimization models:
 
 ## Research Area
 
-Mathematical finance, ESG investing, sustainable finance, portfolio optimization, Black-Litterman modeling, and stochastic covariance estimation.
+Mathematical finance, ESG investing, sustainable finance, portfolio optimization, Black-Litterman modeling, MGARCH volatility modeling, quadratic programming, and responsible investing.
