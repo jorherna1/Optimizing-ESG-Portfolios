@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+type: software
+title: "Optimizing ESG Portfolios — replication code"
+authors:
+  - family-names: Hernandez
+    given-names: Jorge
+  - family-names: Villamor
+    given-names: Enrique
+repository-code: "https://github.com/jorherna1/Optimizing-ESG-Portfolios"
+license: MIT
+date-released: "2026-01-01"
+preferred-citation:
+  type: article
+  title: "Optimizing ESG Portfolios"
+  authors:
+    - family-names: Hernandez
+      given-names: Jorge
+    - family-names: Villamor
+      given-names: Enrique
+  journal: "The Journal of Impact and ESG Investing"
+  year: 2026
+  season: Spring

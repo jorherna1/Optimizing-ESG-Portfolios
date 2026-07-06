@@ -1,0 +1,18 @@
+# Packages imported by Model 1.ipynb, Model 2.ipynb, and Model 3.ipynb
+# Pin versions to match the environment used for the paper results.
+
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# MGARCH covariance estimation
+mgarch==0.3.0
+
+# Quadratic programming solver (Model 3)
+qpsolvers==4.12.0
+quadprog==0.1.13
+
+# Excel I/O (.xlsx files)
+openpyxl==3.1.5
